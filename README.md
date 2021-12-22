@@ -1,1 +1,1 @@
-# https://k34g2r8.github.io/tic-tac-toe/
+# https://keagtorb.github.io/tic-tac-toe/
